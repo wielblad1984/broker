@@ -67,5 +67,7 @@ public class Broker {
                 '}';
     }
 
+    //97 strona wielu do jednego
+
 
 }
